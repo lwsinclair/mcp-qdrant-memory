@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/delorenj-mcp-qdrant-memory-badge.png)](https://mseep.ai/app/delorenj-mcp-qdrant-memory)
+
 # MCP Memory Server with Qdrant Persistence
 [![smithery badge](https://smithery.ai/badge/@delorenj/mcp-qdrant-memory)](https://smithery.ai/server/@delorenj/mcp-qdrant-memory)
 
